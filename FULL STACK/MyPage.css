@@ -1,0 +1,26 @@
+#Maindiv 
+{
+    height: 800px;
+    width: 1000px;
+    background-color: rgb(179, 179, 179);
+    margin-left: 280px;
+}
+#logocompanydiv
+{
+    height: 130px;
+    width: 1000px;
+    background-color: yellow;
+}
+#logodiv
+{
+    height: 130px;
+    width: 300px;
+    background-color: red;
+    float: left;
+}
+#companydiv
+{
+    height: 130px;
+    width: 700px;
+
+}
